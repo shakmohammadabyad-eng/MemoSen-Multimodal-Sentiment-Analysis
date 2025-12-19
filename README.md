@@ -40,7 +40,7 @@ The system consists of the following components:
   Fully connected layers with softmax activation for sentiment prediction.
 
 - **Optimizer**  
-  AdmW optimizer applied to eng=hance the performance.
+  AdmW optimizer applied to enhance the performance.
 
 
   
