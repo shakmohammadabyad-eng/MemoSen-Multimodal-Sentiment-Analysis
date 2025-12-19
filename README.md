@@ -55,7 +55,9 @@ The MemoSen dataset is a curated Bengali meme sentiment dataset containing visua
 
 ### Dataset Overview
 
-![Dataset Overview](figures/dataset_overview.png)
+<p align="center">
+  <img src="figures/dataset-overview.png" width="500">
+</p>
 
 *Overview of the MemoSen dataset showing the composition of meme samples across different modalities and caption types.*
 
